@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Abu Bakar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakar0320) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakr.bgnu@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/abubakar0320?label=Followers&style=for-the-badge)](https://github.com/abubakar0320)
+<div align="center">
+  <a href="https://www.linkedin.com/in/abubakar0320">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abubakr.bgnu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/abubakar0320">
+    <img src="https://img.shields.io/github/followers/abubakar0320?label=Followers&style=for-the-badge" />
+  </a>
+</div>
 
 ---
 
@@ -16,20 +24,21 @@
 
 ## 🛠️ Skills
 
+<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
+</div>
+
 **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
 **Backend:** Node.js, Express, REST APIs, JWT  
 **Database:** MongoDB, MySQL  
 **Dev Tools:** Git, GitHub, VS Code, CMD, npm, Docker  
 **Testing & CI/CD:** Jest, GitHub Actions, Travis CI  
 **Other:** Agile Workflow, Automation  
-
-**Skill Badges:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -41,8 +50,9 @@
 | **Project 2** | Short description | [Repo](#) |
 | **Project 3** | Short description | [Repo](#) |
 
-**Project Previews / GIFs:**  
-![Project GIF](https://via.placeholder.com/600x300?text=Project+Preview)
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="Project Demo"/>
+</div>
 
 ---
 
@@ -52,14 +62,16 @@
 - ⚡ Completed multiple end-to-end projects with CI/CD  
 - 💡 Optimized workflows for faster project delivery  
 - 🏅 Participated in Hackathons & coding challenges  
-- 🌟 Contributed to Open Source (add links)  
+- 🌟 Contributed to Open Source  
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-[![Abu Bakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=radical)](https://github.com/abubakar0320)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=radical)](https://github.com/abubakar0320)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
