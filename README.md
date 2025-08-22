@@ -50,9 +50,6 @@
 | **Project 2** | Short description | [Repo](#) |
 | **Project 3** | Short description | [Repo](#) |
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="Project Demo"/>
-</div>
 
 ---
 
