@@ -1,116 +1,93 @@
-# 👋 Hi, I'm Abu Bakar  
+<h1 align="center">👋 Hi, I'm Abu Bakar</h1>
 
-**Open Source Contributor | Full Stack Developer | IT Student @ BGNU Nankana Sahib**  
+<p align="center">
+  <b>Open Source Contributor | Full Stack Developer | IT Student @ BGNU Nankana Sahib</b>  
+</p>
 
-I love building **scalable web apps** and contributing to **open source**. Currently focusing on **React, Node.js, and Python** while exploring modern DevOps & cloud tools.  
+<p align="center">
+  🚀 Passionate about building <b>scalable web apps</b> and contributing to <b>open source</b>.  
+  Currently working with <b>React, Node.js & Python</b> while exploring modern DevOps & Cloud tools.  
+</p>
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/abubakar0320">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abubakr.bgnu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/abubakar0320">
-    <img src="https://img.shields.io/github/followers/abubakar0320?label=Followers&style=for-the-badge&color=0E75B6" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abubakar0320"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abubakr.bgnu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/abubakar0320"><img src="https://img.shields.io/github/followers/abubakar0320?label=Follow&style=for-the-badge&color=0E75B6" /></a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 IT Student at **BGNU Nankana Sahib**  
-- 🔭 Currently working on **Jamia-shere-rabbani (Fullstack Portal)**  
-- 🌱 Exploring **Fullstack Development, React, Node.js, CI/CD & GitHub Actions**  
-- 💬 Ask me about **Git, Web Development, and Optimization**  
-- ⚡ Fun fact: I automate workflows & love solving coding challenges  
+- 🎓 IT Student @ **BGNU Nankana Sahib**  
+- 💻 Building **Jamia-shere-rabbani (Fullstack Portal)**  
+- 🌱 Exploring **React, Node.js, CI/CD & GitHub Actions**  
+- 🧩 Loves solving coding challenges & automating workflows  
 
 ---
 
 ## 🚀 Skills  
 
-<div align="center">
-<img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black" /> 
-<img src="https://img.shields.io/badge/React-00EFFF?style=for-the-badge&logo=react&logoColor=black" /> 
-<img src="https://img.shields.io/badge/Node.js-2ECC71?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-<img src="https://img.shields.io/badge/TailwindCSS-9B59B6?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-</div>
-
-**Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
-**Backend:** PHP, Node.js, Express, REST APIs, JWT  
-**Database:** MongoDB, MySQL  
-**Dev Tools:** Git, GitHub, VS Code, CMD, npm, Docker  
-**Testing & CI/CD:** Jest, GitHub Actions, Travis CI  
-**Other:** Agile Workflow, Automation  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-2ECC71?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Projects / Portfolio  
+## 📂 Featured Projects  
 
-| 🌟 Project | ✨ Description | 🔗 Link |
-|------------|---------------|---------|
-| **Jamia-shere-rabbani** | Fullstack portal with login system, dynamic pages, CI/CD | [Repo](https://github.com/abubakar0320/Jamia-shere-rabbani) |
-| **Special-Lady** | Open Source Contribution (PR #2 merged) | [Repo](https://github.com/Anish570/Filehub-Client/pull/2) |
-| **More Projects** | Coming soon... | [Profile](https://github.com/abubakar0320) |
+- 🔹 **[Jamia-shere-rabbani](https://github.com/abubakar0320/Jamia-shere-rabbani)**  
+  *Fullstack portal with login system, dynamic pages, CI/CD pipeline*  
+
+- 🔹 **[Special-Lady (PR #2)](https://github.com/Anish570/Filehub-Client/pull/2)**  
+  *Open Source Contribution – Added `.env.example` & Quickstart guide*  
+
+- 🔹 **More Projects →** [My GitHub](https://github.com/abubakar0320)  
 
 ---
 
-## 🏆 Achievements & Highlights  
+## ⭐ Open Source Contributions  
 
-- 🦈 **GitHub Pull Shark** (Open Source Contributor)  
-- ⚡ Completed multiple end-to-end projects with CI/CD  
-- 💡 Optimized workflows for faster project delivery  
+- [Filehub-Client](https://github.com/Anish570/Filehub-Client) – Added `.env.example` + Quickstart guide  
+- Reviewed PRs (naming, unused imports, README improvements)  
+- Actively contributing to **React / Node.js based repos**  
+
+---
+
+## 🏆 Achievements  
+
+- 🦈 **GitHub Pull Shark** (for merged PRs in Open Source)  
+- ⚡ Built multiple end-to-end projects with CI/CD  
+- 💡 Improved workflows & optimized deployments  
 - 🏅 Hackathon & coding challenge participant  
-- 🌟 Active **Open Source Contributor**  
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" 
-       alt="GitHub Stats" width="80%" height="200"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" 
-       alt="Top Languages" width="80%" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=tokyonight" 
-       alt="Streak Stats" width="80%" height="200"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=tokyonight" />
 </p>
 
 ---
 
-## 💡 Fun Quote  
+## 🌐 Connect with Me  
 
-> ✨ “Code like a magician, debug like a detective.”  
-
----
-
-## 🌐 Portfolio & Social Links  
-
-[🌎 Portfolio Website](#) | [💼 LinkedIn](https://www.linkedin.com/in/abubakar0320) | [🔥 LeetCode](#) | [⚔️ Codewars](#)  
+📧 [abubakr.bgnu@gmail.com](mailto:abubakr.bgnu@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/abubakar0320)  
+🐙 [GitHub](https://github.com/abubakar0320)  
 
 ---
 
-## 📫 Contact Me  
-
-- 📧 **Email:** [abubakr.bgnu@gmail.com](mailto:abubakr.bgnu@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/abubakar0320](https://www.linkedin.com/in/abubakar0320)  
-- 🐙 **GitHub:** [@abubakar0320](https://github.com/abubakar0320)  
-
----
-
-## ⭐ Featured Open Source Work  
-- [Filehub-Client](https://github.com/Anish570/Filehub-Client) – Added `.env.example` & Quickstart guide  
-- *(Pin this repo on your profile for visibility)*  
-
-> 🧑‍💻 Work smart, automate often, and let your GitHub glow ✨  
+<p align="center">✨ “Code like a magician, debug like a detective.” ✨</p>
