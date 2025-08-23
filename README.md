@@ -66,15 +66,18 @@
 
 <table>
   <tr>
+    <!-- Left Box (Stats) -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%"/>
     </td>
+    <!-- Right Box (Languages) -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
 
+<!-- Full Width Box -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=tokyonight" alt="Streak Stats" width="100%"/>
 </div>
