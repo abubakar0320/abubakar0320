@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Abu Bakar  
 
+**Open Source Contributor | Full Stack Developer | IT Student @ BGNU Nankana Sahib**  
+
+I love building **scalable web apps** and contributing to **open source**. Currently focusing on **React, Node.js, and Python** while exploring modern DevOps & cloud tools.  
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abubakar0320">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -103,5 +108,9 @@
 - 🐙 **GitHub:** [@abubakar0320](https://github.com/abubakar0320)  
 
 ---
+
+## ⭐ Featured Open Source Work  
+- [Filehub-Client](https://github.com/Anish570/Filehub-Client) – Added `.env.example` & Quickstart guide  
+- *(Pin this repo on your profile for visibility)*  
 
 > 🧑‍💻 Work smart, automate often, and let your GitHub glow ✨  
