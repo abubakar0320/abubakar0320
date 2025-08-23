@@ -14,7 +14,7 @@
 
 ---
 
-## 💼 About Me  
+## About Me  
 - 🔭 Working on **Jamia-shere-rabbani projects**  
 - 🌱 Learning **Fullstack Development, React, Node.js, CI/CD & GitHub Actions**  
 - 💬 Ask me about **Git, Web Development, and Optimization**  
@@ -34,7 +34,7 @@
 </div>
 
 **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
-**Backend:** Node.js, Express, REST APIs, JWT  
+**Backend:** php, Node.js, Express, REST APIs, JWT  
 **Database:** MongoDB, MySQL  
 **Dev Tools:** Git, GitHub, VS Code, CMD, npm, Docker  
 **Testing & CI/CD:** Jest, GitHub Actions, Travis CI  
@@ -64,15 +64,23 @@
 
 ## 📊 GitHub Stats & Activity  
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=tokyonight" alt="Streak Stats" width="100%"/>
 </div>
 
----
 
-## 💬 Fun Quote  
+## Fun Quote  
 
 > ✨ “Code like a magician, debug like a detective.”  
 
@@ -80,19 +88,14 @@
 
 ## 🌐 Portfolio & Social Links  
 
-[🌐 Portfolio Website](#) | [💼 LinkedIn](https://www.linkedin.com/in/abubakar0320) | [🔥 LeetCode](#) | [⚡ Codewars](#)  
-
----
-
-📈 **Visitor Counter**  
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abubakar0320&count_bg=%2300EFFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)  
+[ Portfolio Website](#) | [ LinkedIn](https://www.linkedin.com/in/abubakar0320) | [ LeetCode](#) | [ Codewars](#)  
 
 ---
 
 ## 📫 Contact Me  
 
-- 📩 **Email:** abubakr.bgnu@gmail.com  
-- 🔗 **LinkedIn:** [abubakar0320](https://www.linkedin.com/in/abubakar0320)  
-- 🐙 **GitHub:** [@abubakar0320](https://github.com/abubakar0320)  
+-  **Email:** abubakr.bgnu@gmail.com  
+-  **LinkedIn:** [abubakar0320](https://www.linkedin.com/in/abubakar0320)  
+-  **GitHub:** [@abubakar0320](https://github.com/abubakar0320)  
 
-> ⚡ Work smart, automate often, and let your GitHub glow 🚀  
+>  Work smart, automate often, and let your GitHub glow   
