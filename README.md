@@ -65,15 +65,15 @@
 ## 📊 GitHub Stats & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" alt="Top Languages" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=tokyonight" alt="Streak Stats" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=tokyonight" alt="Streak Stats" width="80%"/>
 </p>
 
 
