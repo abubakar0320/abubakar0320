@@ -1,4 +1,4 @@
-﻿name: Generate Snake
+name: Generate Snake
 
 on:
   schedule:
@@ -21,13 +21,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_dir: output
-          file_name: github-contribution-grid-snake.svg
-          palette: github-dark
-          snake_color: '#39ff14'
-          dot_color: '#ffffff'
-          image_type: svg
-          compact: 'true'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: "output/github-contribution-grid-snake.svg"
+          args: "--palette github-dark --snake-color '#39ff14' --dot-color '#ffffff' --compact"
 
       - name: Commit & push output to `output` branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
