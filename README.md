@@ -2,177 +2,118 @@
 
 # Abu Bakar Siddique
 
-### Full Stack Developer • MERN Stack Developer • Open Source Contributor
+### Building Digital Products That Solve Real Problems
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Open+Source+Contributor;Cisco+Cybersecurity+Certified;Passionate+About+Technology+and+Innovation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Cisco+Cybersecurity+Certified;Always+Learning+Something+New" />
 
 <br>
 
 <a href="https://iamabubakar.site">
-<img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abubakar0320">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
 </a>
 
 <a href="mailto:abubakr.bgnu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
 </a>
-
-<a href="https://github.com/abubakar0320">
-<img src="https://img.shields.io/github/followers/abubakar0320?style=for-the-badge&color=0E75B6"/>
-</a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=abubakar0320&label=Profile+Views&style=for-the-badge&color=0E75B6"/>
 
 </div>
 
 ---
 
-# About Me
+# Developer Dashboard
 
-```javascript
-const abuBakar = {
-    education: "BS Information Technology",
-    university: "Baba Guru Nanak University",
-    cgpa: "3.42/4.00",
+| | |
+|---|---|
+| Name | Abu Bakar Siddique |
+| Education | BS Information Technology |
+| University | Baba Guru Nanak University |
+| CGPA | 3.42 / 4.00 |
+| Role | Full Stack Developer |
+| Focus | MERN Stack |
+| Interests | DevOps, Cloud, AI |
+| Status | Building & Learning Daily |
 
-    role: "Full Stack Developer",
+---
 
-    expertise: [
-        "MERN Stack",
-        "Next.js",
-        "Node.js",
-        "MongoDB",
-        "PHP",
-        "MySQL"
-    ],
+# Current Mission
 
-    certifications: [
-        "Cisco Cybersecurity"
-    ],
-
-    interests: [
-        "Software Engineering",
-        "Cloud Computing",
-        "DevOps",
-        "Cybersecurity",
-        "Artificial Intelligence"
-    ],
-
-    currentlyBuilding: [
-        "EstateHub",
-        "Jamia Sher Rabbani",
-        "Modern Web Applications"
-    ]
-};
+```txt
+✓ Build Production Ready Applications
+✓ Contribute More To Open Source
+✓ Master MERN Stack
+✓ Learn Cloud Technologies
+✓ Learn DevOps & CI/CD
+✓ Grow As A Software Engineer
 ```
 
 ---
 
-# What I Do
-
-- Build Full Stack Web Applications
-- Design Scalable Backend Architectures
-- Create Responsive Frontend Experiences
-- Work with Databases & APIs
-- Deploy Production Applications
-- Contribute to Open Source Projects
-- Continuously Learn New Technologies
-
----
-
-# Technology Stack
+# Tech Arsenal
 
 ### Frontend
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
 
 ### Backend
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
 
-### Database
+### Databases
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### Tools & Platforms
+### Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,npm" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 
 ---
 
-# Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+# Live Products
 
 ## EstateHub
 
-Smart Property & Rental Management System
+Property & Rental Management Platform
 
-### Highlights
+🌍 https://estatehub.site
 
-- Property Listings
-- Rental Management
-- User Authentication
-- Admin Dashboard
-- Responsive Design
-
-**Stack:** React • Node.js • MongoDB
-
-**Live:** https://estatehub.site
-
-</td>
-
-<td width="50%">
+---
 
 ## Jamia Sher Rabbani
 
 Educational Management Platform
 
-### Highlights
-
-- Dynamic Content Management
-- Authentication System
-- Admin Dashboard
-- User Management
-- Institutional Portal
-
-**Stack:** React • Node.js • MongoDB
-
-**Live:** https://jamiashererabbani.com
-
-</td>
-</tr>
-</table>
+🌍 https://jamiashererabbani.com
 
 ---
 
-# Open Source Contributions
+## DiabetFree Pakistan
+
+Healthcare Awareness Platform
+
+🌍 https://diabetfreepakistan.site
+
+---
+
+## Portfolio
+
+🌍 https://iamabubakar.site
+
+---
+
+# Open Source Journey
 
 ### Filehub Client
 
-Contributed to improving the developer onboarding experience.
-
-#### Contributions
+Contribution Highlights:
 
 - Added `.env.example`
-- Improved project setup
+- Improved Documentation
+- Improved Setup Experience
 - Enhanced Quick Start Guide
-- Improved documentation
 
 Pull Request:
 
@@ -180,80 +121,51 @@ https://github.com/Anish570/Filehub-Client/pull/2
 
 ---
 
-# GitHub Analytics
+# Learning Roadmap
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=tokyonight&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=tokyonight" />
-</p>
+```mermaid
+graph LR
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=tokyonight" />
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakar0320&theme=tokyo-night" />
-</p>
-
----
-
-# GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abubakar0320&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-# Current Learning Journey
-
-```text
-Backend Architecture      ██████████████░░ 90%
-MERN Stack                ██████████████░░ 90%
-Database Design           █████████████░░░ 85%
-Cloud Computing           ██████████░░░░░░ 65%
-DevOps                    █████████░░░░░░░ 60%
-Artificial Intelligence   ███████░░░░░░░░░ 50%
+A[MERN Stack] --> B[System Design]
+B --> C[DevOps]
+C --> D[Docker]
+D --> E[Cloud Computing]
+E --> F[AI Integration]
 ```
 
 ---
 
-# Certifications
+# GitHub Performance
 
-🏅 Cisco Certified in Cybersecurity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abubakar0320&show_icons=true&theme=github_dark"/>
+</p>
 
-🏅 Networking Fundamentals
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abubakar0320&theme=github-dark-blue"/>
+</p>
 
-🏅 Git & GitHub
-
-🏅 Modern Web Development
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakar0320&layout=compact&theme=github_dark"/>
+</p>
 
 ---
 
-# Connect With Me
+# Philosophy
 
-<p align="center">
-<a href="https://iamabubakar.site">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abubakar0320">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:abubakr.bgnu@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+```javascript
+while(alive){
+    learn();
+    build();
+    improve();
+    shareKnowledge();
+}
+```
 
 ---
 
 <div align="center">
 
-### "Building software that creates value, solves problems, and makes an impact."
+### "Code. Learn. Build. Repeat."
 
 </div>
